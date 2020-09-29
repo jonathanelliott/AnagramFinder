@@ -1,0 +1,66 @@
+Genesis
+Exodus
+Leviticus
+Numbers
+Deuteronomy
+Joshua
+Judges
+Ruth
+1 & 2 Samuel
+1 & 2 Kings
+1 & 2 Chronicles
+Ezra
+Nehemiah
+Esther
+Job
+Psalms
+Proverbs
+Ecclesiastes
+Song of Solomon
+Isaiah
+Jeremiah
+Lamentations
+Ezekiel
+Daniel
+Hosea
+Joel
+Amos
+Obadiah
+Jonah
+Micah
+Nahum
+Habakkuk
+Zephaniah
+Haggai
+Zechariah
+Malachi
+Matthew
+Mark
+Luke
+John
+Acts
+Romans
+First Corinthians
+Second Corinthians
+Corinthians
+Galatians
+Ephesians
+Philippians
+Colossians
+First Thessalonians
+Second Thessalonians
+Thessalonians
+First Timothy
+Second Timothy
+Timothy
+Titus
+Philemon
+Hebrews
+James
+First Peter
+Second Peter
+Peter
+First John
+Second John
+Third John
+Revelation

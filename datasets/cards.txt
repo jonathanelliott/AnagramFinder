@@ -1,0 +1,14 @@
+King
+Queen
+Jack
+Knave
+Ten
+Nine
+Eight
+Seven
+Six
+Five
+Four
+Three
+Two
+Ace

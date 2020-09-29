@@ -1,0 +1,36 @@
+thou
+inch
+foot
+yard
+chain
+furlong
+mile
+league
+fathom
+cable
+nautical mile
+link
+rod
+perch
+rood
+acre
+fluid ounce
+gill
+pint
+quart
+gallon
+minim
+fluid scruple
+fluid drachm
+fluid ounce
+pint
+gallon
+grain
+drachm
+ounce
+pound
+stone
+quarter
+hundredweight
+ton
+slug

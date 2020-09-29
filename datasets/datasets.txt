@@ -1,0 +1,161 @@
+Academy Award Best Actor winners: bestactors
+Academy Award Best Actress winners: bestactresses
+Academy Award Best Director winners: bestdirectors
+Academy Award Best Picture nominees: bestpicturenominees
+Booker Prize shortlisted authors: bookerauthors
+Booker Prize shortlisted novels: bookernominees
+Books of the Bible: booksofthebible
+Canadian provinces and territories: canadianprovinces
+World capitals: capitals
+Chinese provinces: chineseprovinces
+UK parliamentary constituencies: constituencies
+English counties: counties
+Countries: countries
+English county towns: countytowns
+Chemical elements: elements
+FA Cup winning teams: facupwinners
+French departments: frenchdepartments
+UK football clubs: footballclubs
+German Laender: germanlaender
+Glasgow Subway stations: glasgowsubway
+Indian states: indianstates
+Irish counties: irishcounties
+Italian regions: italianregions
+Japanese prefectures: japaneseprefectures
+Lakes: lakes
+London boroughs: londonboroughs
+London Underground stations: londonunderground
+Manchester Metro stations: manchestermetro
+Solar System moons: moons
+Mountains: mountains
+UK Members of Parliament: mps
+Nobel Prize winners: nobelwinners
+UK number one single artists: numberoneartists
+UK number one singles: numberonesongs
+Paris Metro stations: parismetro
+Rivers: rivers
+Russian federal subjects: russianfederalsubjects
+Spanish autonomous communities: spanishautonomies
+US state capitals: statecapitals
+US states: states
+Swiss cantons: swisscantons
+Tyne & Wear Metro stations: tyneandwearmetro
+UK prime ministers: ukprimeministers
+UK rail stations: ukrailstations
+US presidents: uspresidents
+Wimbledon winners: wimbledonwinners
+Northern Irish counties: nicounties
+Scottish counties: scottishcounties
+Welsh counties: welshcounties
+UK Poets Laureate: poetslaureate
+Popes: popes
+UK monarchs: monarchs
+Writers: writers
+Playwrights: playwrights
+Composers: composers
+Islands: islands
+Palme d'Or winners: palmedor
+Grand National winners: grandnational
+Derby winners: derbywinners
+Derby jockeys: epsomjockeys
+NFL teams: nflteams
+MLB teams: mlbteams
+NBA teams: nbateams
+NHL teams: nhlteams
+NFL teams (short): nflteams2
+MLB teams (short): mlbteams2
+NBA teams (short): nbateams2
+NHL teams (short): nhlteams2
+Tony Award nominees: tonynominees
+Grammy Award songs: grammysongs
+Grammy Award artists: grammyartists
+US senators: ussenators
+French prefectures: frenchcapitals
+German capitals: germancapitals
+Japanese capitals: japanesecapitals
+Archbishops of Canterbury: archbishops
+Chinese capitals: chinesecapitals
+Crufts winners: cruftswinners
+Prix Goncourt authors: prixgoncourtauthors
+Hugo nominated authors: hugonominatedauthors
+Hugo nominated novels: hugonominatednovels
+Russian capitals: russiancapitals
+World Cup winning players: worldcupwinningplayers
+Shakespeare plays: shakespeareplays
+New York boroughs: newyorkboroughs
+Planets: planets
+Signs of the Zodiac: zodiacsigns
+Signs of the Chinese Zodiac: chinesezodiac
+Champions League winners: championsleaguewinners
+Europa League winners: europaleaguewinners
+Football League winners: footballleaguewinners
+Premier League Golden Boot winners: goldenboot
+Turner Prize winners: turnerprizewinners
+Pritzker Prize winners: pritzkerprizewinners
+Fields Medallists: fieldsmedallists
+NATO phonetic alphabet: natoalphabet
+Rainbow colours: rainbowcolours
+Shipping Forecast areas: shippingforecast
+Crayola colours: crayolacolours
+Chinese dynasties: chinesedynasties
+French presidents: frenchpresidents
+German chancellors: germanchancellors
+State flowers: stateflowers
+Tribes of Israel: tribesofisrael
+State birds: statebirds
+State trees: statetrees
+Birthstones: birthstones2
+Kentucky Derby winners: kentuckyderbywinners
+Playing cards: cards
+Playing card suits: suits
+Chess pieces: chesspieces
+Chess champions: chesschampions
+Monopoly squares (UK): monopolyuk
+Monopoly squares (US): monopolyus
+Dutch provinces: dutchprovinces
+World Heritage sites: worldheritagesites
+US Vice Presidents: vicepresidents
+US Federal Holidays: federalholidays
+Ben and Jerry's ice cream flavours: benandjerrys
+Currencies: currencies
+US national parks: usnationalparks
+Mexican regions: mexicanregions
+Brazilian states: brazilianstates
+US counties: uscounties
+Roman emperors: romanemperors
+Numbers: numbers
+Dwarf planets: dwarfplanets
+Quark flavours: quarks
+Days of the week: days
+Months of the year: months
+SI base units: baseunits
+The Open Championship winners: openwinners
+Masters Tournament champions: mastersgolfchampions
+UK football stadiums: footballstadiums
+Constellations: constellations
+Mohs scale minerals: mohsscale
+Greek Muses: muses
+James Bond films: bondfilms
+Irish county towns: irishcountytowns
+Snooker world champions: snookerworldchampions
+Miss World titleholders: missworld
+Prix de l'Arc de Triomphe winners: prixdelarcdetriomphewinners
+Eurovision winning artists: eurovisionwinners
+Eurovision winning songs: eurovisionsongs
+Olympic host cities: olympichosts
+English Football League teams: footballleague
+All Eurovision songs: alleurovisionsongs
+All Eurovision acts: alleurovisionacts
+Presidents of the Royal Society: royalsocietypresidents
+UK national parks: uknationalparks
+UK Scout badges: scoutbadges
+UK Cub Scout badges: cubbadges
+Jelly Belly flavours: jellybelly
+Olympic medallists (to 2012 plus 2016): olympicmedallists
+Imperial units: imperialunits
+SI units: siunits
+SI prefixes: siprefixes
+Amino acids: aminoacids
+Cheltenham Gold Cup winners: cheltenhamgoldcupwinners
+Pokemon: pokemon
+Original Pokemon: originalpokemon
